@@ -1,8 +1,14 @@
 # jogoTanque
-projeto de jogo de tanque
 
-# Descrição do jogo
+## projeto de jogo de tanque
 
+## Descrição do jogo
+```
+Jogo de tiro com temática de tanque de guerra,
+iniciando com 3 vidas e ganhando 10 pontos para cada tanque destruido
+
+
+```
 
 
 # sprites usados no jogo
@@ -18,8 +24,21 @@ projeto de jogo de tanque
 ![PlanoDeFundoEmBlocos](https://github.com/gabrielkhodor/jogoTanque/assets/44448751/178108f4-ba93-4e9e-a17e-35bfb21fed66)
 #
 
-Descrição do jogo
+## link do jogo
 
+```
+ tankgame2024.netlify.app
+
+```
+## 🛠️ Construído com
+```
+Construct 3
+```
+## Vídeo do jogo
+
+
+
+https://github.com/gabrielkhodor/jogoTanque/assets/44448751/6aaa9f5b-9300-486e-b436-10509ec52cc7
 
 
 
